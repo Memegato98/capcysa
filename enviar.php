@@ -7,7 +7,7 @@ $mensaje + $_POST['message'];
 // Datos para el correo
 
 $destinatario = "pul98alvarenga@gmail.com";
-$asunto = "Contacto desde la Web - CAPCYSA de RL"
+$asunto = "Contacto desde la Web - CAPCYSA de RL";
 
 $carta = "Servicio de Consultas de CAPCYSA \n";
 $carta .= "De: $nombre \n";
